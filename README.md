@@ -21,6 +21,6 @@ Data of 16 Countries from 7 Regions over a time period of 16 Years was distilled
 ## Steps Involved / Methodolgy:
 Data Cleaning, Data Normalization, Indicator Selection *Pearson Correlation Coefficient to find the pairwise correlation of all indicators*, Average Calculation, Weight Distribution, Calculation of weighted averages, Calculation of Aggregate Averages of all pillars *Determining Indicators' Impact based on Correlation* *Data Anomalies*, Calculating Final Rankings.
 
-## For further information and key findings please read the Project Report (PDF File) in the code section.
+### For further information and key findings please read the Project Report (PDF File) in the code section.
 #### Side Note: 
 This was my final term project in first semester in college. I'm still learning about Data Science and frankly I've a long way to go. So your suggestions if any to improve this project will be appreciated.
