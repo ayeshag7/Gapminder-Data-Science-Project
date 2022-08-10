@@ -6,10 +6,10 @@ Ranking countries based on their economic and environmental well-being using Gap
 
 Measuring a country's prosperity from just one standpoint would be biased so this ranking was determined in two ways:
 
-Red TESPH:  Measure of a country's economic strength reflected in it's economic growth, diversity, and stability.
+**Red TESPH**:  Measure of a country's economic strength reflected in it's economic growth, diversity, and stability.
   * For RED TESPH, correlation of indicators with Total GDP US was found because GDP is the  most comprehensive measure of economic performance and growth of a country.
     
-Green TESPH:  Measure of a country's standard of living in terms of sustainable development and health.
+**Green TESPH**:  Measure of a country's standard of living in terms of sustainable development and health.
   * For GREEN TESPH, the indicator Life Expectancy was chosen as it determines the overall health status of a country across all ages.
   
 ## TESPH in Numbers:
