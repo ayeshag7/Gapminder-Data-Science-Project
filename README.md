@@ -32,4 +32,4 @@ Data of 16 Countries from 7 Regions over a time period of 16 Years was distilled
 
 ### For further information and key findings please read the Project Report (PDF File) in the code section.
 #### Side Note: 
-This was my first semester term project in college. I'm still learning about Data Science and to be honest I've a long way to go. So your suggestions if any to improve this project will be appreciated.
+This was my first semester term project. I'm still learning Data Analysis and Data Scienec. So your suggestions if any to improve this project will be appreciated.
