@@ -22,12 +22,14 @@ Data of 16 Countries from 7 Regions over a time period of 16 Years was distilled
 * Data Cleaning
 * Data Normalization 
 * Indicator Selection 
-  *Pearson Correlation Coefficient to find the pairwise correlation of all indicators*
+  * Pearson Correlation Coefficient to find the pairwise correlation 
+  of all indicators
 * Average Calculation
 * Weight Distribution
 * Calculation of weighted averages
 * Calculation of Aggregate Averages of all pillars 
-  *Determining Indicators' Impact based on Correlation,* *Data Anomalies*
+  * Determining Indicators' Impact based on Correlation
+  * Data Anomalies
 * Calculating Final Rankings.
 
 ### For further information and key findings please read the Project Report (PDF File) in the code section.
