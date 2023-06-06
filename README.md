@@ -1,7 +1,9 @@
 # Gapminder-Data-Science-Project
-Ranking countries based on their economic and environmental well-being using Gapminder dataset containing data about many indicators like life expectancy, GDP etc from 1952 to 2012.
+A socio-economic analysis of countries with an emphasis on Pakistan.
 
 ## Ranking Name: TESPH
+Ranking countries based on their economic and environmental well-being using Gapminder dataset containing data about many indicators like life expectancy, GDP etc from 1952 to 2012.
+
 'TESPH' which stands for Technology, Economy and Environment, Social, Population, and Health is a comprehensive rating created from analysing a large proportion of data which shows a country's overall wellbeing over a certain period of time.
 
 Measuring a country's prosperity from just one standpoint would be biased so this ranking was determined in two ways:
